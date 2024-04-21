@@ -1,5 +1,8 @@
 # Import assignment functions
 import os
+from basic import GAN
+import matplotlib.pyplot as plt
+import numpy as np
 
 def main(image_path):
   pass
